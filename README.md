@@ -15,10 +15,11 @@ Melakukan pengujian konektivitas (ping) untuk memastikan komunikasi berhasil.
 🧠 Hasil Pengujian
 Berikut hasil pengujian konektivitas jaringan menggunakan perintah ping:
 
-Ping Gagal
-Sebelum router dikonfigurasi, komunikasi belum berhasil.
-![Ping Gagal](ping%gagal.png)
+**Ping Gagal**  
+Sebelum router dikonfigurasi, komunikasi belum berhasil.  
+![Ping Gagal](ping%20gagal.png)
 
-Ping Berhasil
-Setelah semua konfigurasi selesai, ping berhasil dilakukan.
-![Ping Gagal](ping%berhasil.png)
+**Ping Berhasil**  
+Setelah semua konfigurasi selesai, ping berhasil dilakukan.  
+![Ping Berhasil](ping%20berhasil.png)
+
