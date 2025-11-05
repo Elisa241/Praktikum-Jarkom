@@ -23,4 +23,7 @@ Sebelum router dikonfigurasi, komunikasi belum berhasil.
 Setelah semua konfigurasi selesai, ping berhasil dilakukan.  
 ![Ping Berhasil](ping%20berhasil.png)
 
-Link Youtube: https://youtu.be/JtfT-NmIsjE 
+
+🎥 Video Penjelasan
+Video penjelasan lengkap percobaan ini dapat ditonton melalui YouTube pada tautan berikut:
+https://youtu.be/JtfT-NmIsjE 
