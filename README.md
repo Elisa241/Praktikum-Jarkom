@@ -17,8 +17,8 @@ Berikut hasil pengujian konektivitas jaringan menggunakan perintah ping:
 
 Ping Gagal
 Sebelum router dikonfigurasi, komunikasi belum berhasil.
-![Ping Gagal](./ping-gagal.png)
+![Ping Gagal]("ping gagal.png")
 
 Ping Berhasil
 Setelah semua konfigurasi selesai, ping berhasil dilakukan.
-![Ping Gagal](./ping-berhasil.png)
+![Ping Gagal]("ping berhasil.png")
